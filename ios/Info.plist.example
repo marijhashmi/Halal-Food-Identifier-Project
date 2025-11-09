@@ -1,0 +1,12 @@
+<!-- Example Info.plist additions -->
+<!-- Add these keys to your existing Info.plist file -->
+
+<key>NSCameraUsageDescription</key>
+<string>We need access to your camera to scan product labels and barcodes</string>
+
+<key>NSPhotoLibraryUsageDescription</key>
+<string>We need access to your photo library to select product images</string>
+
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>We need access to save scanned product images</string>
+
